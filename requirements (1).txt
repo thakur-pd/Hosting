@@ -1,0 +1,17 @@
+pyTelegramBotAPI==4.15.4
+
+Flask==3.0.0
+aiogram
+
+Werkzeug==3.0.1
+
+requests
+dotenv
+
+aiohttp
+
+colorama
+
+psutil
+
+schedule
